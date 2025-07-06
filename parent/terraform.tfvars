@@ -37,4 +37,10 @@ rg8 = {
     name = "rg200"
     location = "southcentralus"
   }
+
+   rg17 = {
+    name = "rg17"
+    location = "southcentralus"
+  }
+
 }
