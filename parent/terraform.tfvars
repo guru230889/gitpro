@@ -25,5 +25,9 @@ rg8 = {
     name = "rg13"
     location = "southcentralus"
   }
+  rg15 = {
+    name = "rg15"
+    location = "southcentralus"
+  }
 
 }
