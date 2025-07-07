@@ -56,4 +56,8 @@ rg8 = {
   }
 
 
+  rg090 = {
+    name = "rg090"
+    location = "southcentralus"
+  }
 }
