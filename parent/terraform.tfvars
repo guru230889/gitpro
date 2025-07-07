@@ -50,12 +50,20 @@ rg8 = {
     name = "rg003"
     location = "southcentralus"
   }
+  rg080 = {
+    name = "rg080"
+    location = "southcentralus"
+  }
+
+
   rg090 = {
     name = "rg090"
     location = "southcentralus"
   }
   rg500 = {
     name = "rg500"
+   rg400 = {
+    name = "rg400"
     location = "southcentralus"
   }
 }
