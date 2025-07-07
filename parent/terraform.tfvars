@@ -67,3 +67,4 @@ rg8 = {
     location = "southcentralus"
   }
 }
+}
