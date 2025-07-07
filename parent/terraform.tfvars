@@ -50,5 +50,8 @@ rg8 = {
     name = "rg003"
     location = "southcentralus"
   }
-
+  rg090 = {
+    name = "rg090"
+    location = "southcentralus"
+  }
 }
